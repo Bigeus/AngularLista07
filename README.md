@@ -1,3 +1,4 @@
+# CHEQUE O JSON PARA INICIAR O BACKEND
 # AngularLista07
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.7.
