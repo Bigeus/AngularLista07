@@ -1,0 +1,13 @@
+/* Configurar o layout principal para ocupar a altura total da página */
+html,
+body,
+app-root {
+  height: 100%;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+}
+
+.content-wrapper {
+  flex: 1;
+}
